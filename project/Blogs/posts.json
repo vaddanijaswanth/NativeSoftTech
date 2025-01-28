@@ -1,0 +1,15 @@
+[
+    {
+        "title": "First Blog Post",
+        "summary": "This is the summary of the first blog post.",
+        "image": "path/to/image1.jpg"
+    },
+    {
+        "title": "Second Blog Post",
+        "summary": "This is the summary of the second blog post.",
+        "image": "path/to/image2.jpg"
+    }
+  
+]
+
+        
